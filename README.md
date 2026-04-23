@@ -2,6 +2,12 @@
 
 Project uploaded by `ducquan247`.
 
+
+
+https://github.com/user-attachments/assets/7f718c0e-b285-402f-87bd-757234f94690
+
+
+
 <img width="1320" height="2868" alt="ảnh 1" src="https://github.com/user-attachments/assets/e06e4f0a-60a6-4f76-a846-ae9978496ea6" />
 <img width="1320" height="2868" alt="ảnh 2" src="https://github.com/user-attachments/assets/2abc652c-2b52-4ed1-9eef-468aea15ecb7" />
 <img width="1320" height="2868" alt="ảnh 3" src="https://github.com/user-attachments/assets/dffc91fe-38cc-4c93-b0fe-7940f23934ba" />
