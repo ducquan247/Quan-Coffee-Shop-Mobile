@@ -1,0 +1,78 @@
+{
+  "location": {
+    "city": "Bilzen, Tanjungbalai",
+    "addressTitle": "Jl. Kpg Sutoyo",
+    "addressDetail": "Kpg. Sutoyo No. 620, Bilzen, Tanjungbalai."
+  },
+  "categories": [
+    "All Coffee",
+    "Macchiato",
+    "Latte",
+    "Americano"
+  ],
+  "promo": {
+    "badge": "Promo",
+    "title": "Buy one get one FREE",
+    "imageKey": "promo"
+  },
+  "products": [
+    {
+      "id": "coffee-1",
+      "name": "Caffe Mocha",
+      "subtitle": "Deep Foam",
+      "category": "All Coffee",
+      "description": "A creamy mocha with bold espresso, silky milk foam and a smooth chocolate finish that fits the original design direction.",
+      "price": 4.53,
+      "rating": 4.8,
+      "reviews": 230,
+      "sizes": ["S", "M", "L"],
+      "imageKey": "product-mocha"
+    },
+    {
+      "id": "coffee-2",
+      "name": "Flat White",
+      "subtitle": "Espresso",
+      "category": "All Coffee",
+      "description": "Balanced espresso and velvety milk create a strong but smooth cup, designed to mirror the Flat White card from the mockup.",
+      "price": 3.53,
+      "rating": 4.8,
+      "reviews": 184,
+      "sizes": ["S", "M", "L"],
+      "imageKey": "product-flat-white"
+    },
+    {
+      "id": "coffee-3",
+      "name": "Latte",
+      "subtitle": "Soft Roast",
+      "category": "Latte",
+      "description": "A mellow latte with gentle roast notes and a silky finish, using the design folder imagery for a warm premium look.",
+      "price": 4.15,
+      "rating": 4.7,
+      "reviews": 126,
+      "sizes": ["S", "M", "L"],
+      "imageKey": "product-latte"
+    },
+    {
+      "id": "coffee-4",
+      "name": "Americano",
+      "subtitle": "Classic Black",
+      "category": "Americano",
+      "description": "Classic Americano with a clean finish and rich aroma, styled to stay consistent with the Coffee Shop App design assets.",
+      "price": 3.2,
+      "rating": 4.6,
+      "reviews": 95,
+      "sizes": ["S", "M", "L"],
+      "imageKey": "product-americano"
+    }
+  ],
+  "delivery": {
+    "etaMinutes": 10,
+    "progress": 0.76,
+    "mapImageKey": "map",
+    "courier": {
+      "name": "Brooklyn Simmons",
+      "role": "Personal Courier",
+      "imageKey": "courier"
+    }
+  }
+}

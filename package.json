@@ -1,0 +1,27 @@
+{
+  "name": "quan-coffee-shop-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "author": "ducquan247",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducquan247/Quan-Coffee-Shop-Mobile.git"
+  },
+  "main": "expo/AppEntry",
+  "scripts": {
+    "start": "expo start --lan",
+    "ios": "expo start --ios --lan",
+    "android": "expo start --android --lan"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^7.4.2",
+    "@react-navigation/native": "^7.1.14",
+    "@react-navigation/native-stack": "^7.3.20",
+    "expo": "~54.0.0",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-gesture-handler": "~2.28.0",
+    "react-native-safe-area-context": "~5.6.2",
+    "react-native-screens": "~4.16.0"
+  }
+}
